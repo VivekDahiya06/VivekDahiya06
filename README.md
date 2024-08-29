@@ -6,7 +6,7 @@ I am a passionate **Frontend Developer** with a knack for creating seamless user
 - 🌱 I’m currently learning **React** and **TypeScript**.
 - 💼 I have experience in building projects with **HTML**, **CSS**, and **JavaScript**.
 - 🎨 I love working on design and UI/UX to enhance user engagement.
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
+- 📫 How to reach me: [vivekdahiya312@gmail.com](mailto:vivekdahiya312@gmail.com)
 
 ## 🛠️ Technologies & Tools
 Here are some of the technologies I work with:
@@ -35,7 +35,7 @@ Here are a few projects I’ve worked on:
 3. **[Project Name](link-to-project)** - A brief description of what this project is about.
 
 ## 📫 Let's Connect
-- [LinkedIn](your-linkedin-profile)
+- [LinkedIn](https://www.linkedin.com/in/vivek-dahiya-176ba6226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [Twitter](your-twitter-profile)
 - [Portfolio](your-portfolio-link)
 
