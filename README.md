@@ -36,7 +36,6 @@ Here are a few projects I’ve worked on:
 
 ## 📫 Let's Connect
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-dahiya-176ba6226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- [Twitter](your-twitter-profile)
 - [Portfolio](your-portfolio-link)
 
 Feel free to reach out if you'd like to discuss projects, collaboration, or just to connect!
