@@ -35,7 +35,7 @@ Here are a few projects I’ve worked on:
 3. **[Project Name](link-to-project)** - A brief description of what this project is about.
 
 ## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/vivek-dahiya-176ba6226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-dahiya-176ba6226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [Twitter](your-twitter-profile)
 - [Portfolio](your-portfolio-link)
 
