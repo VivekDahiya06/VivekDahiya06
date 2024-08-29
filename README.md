@@ -3,7 +3,7 @@
 I am a passionate **Frontend Developer** with a knack for creating seamless user experiences. My primary focus is on building responsive and interactive web applications using modern technologies.
 
 ## 🚀 About Me
-- 🌱 I’m currently learning **React** and **TypeScript**.
+- 🌱 I’m currently learning **React** and **Three Js**.
 - 💼 I have experience in building projects with **HTML**, **CSS**, and **JavaScript**.
 - 🎨 I love working on design and UI/UX to enhance user engagement.
 - 📫 How to reach me: [vivekdahiya312@gmail.com](mailto:vivekdahiya312@gmail.com)
