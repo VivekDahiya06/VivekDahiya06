@@ -6,7 +6,6 @@ I am a passionate **Frontend Developer** with a knack for creating seamless user
 - 🌱 I’m currently learning **React** and **Three Js**.
 - 💼 I have experience in building projects with **HTML**, **CSS**, and **JavaScript**.
 - 🎨 I love working on design and UI/UX to enhance user engagement.
-- 📫 How to reach me: [vivekdahiya312@gmail.com](mailto:vivekdahiya312@gmail.com)
 
 ## 🛠️ Technologies & Tools
 Here are some of the technologies I work with:
@@ -25,7 +24,7 @@ Here are some of the technologies I work with:
 
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=VivekDahiya06&show_icons=true&theme=radical)
 
 ## 🌟 Projects
 Here are a few projects I’ve worked on:
@@ -37,6 +36,9 @@ Here are a few projects I’ve worked on:
 ## 📫 Let's Connect
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-dahiya-176ba6226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [Portfolio](your-portfolio-link)
+- [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your.email@example.com)](mailto:vivekdahiya312@gmail.com)
+- [![Discord Badge](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/yourinvitelink)](https://discord.gg/yourinvitelink)
+
 
 Feel free to reach out if you'd like to discuss projects, collaboration, or just to connect!
 
