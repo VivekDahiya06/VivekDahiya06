@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Vivek Dahiya!
+# 👋 Hi there, I'm Vivek Dahiya
 
 I am a passionate **Frontend Developer** with a knack for creating seamless user experiences. My primary focus is on building responsive and interactive web applications using modern technologies.
 
