@@ -1,11 +1,11 @@
 # 👋 Hi there, I'm Vivek Dahiya!
 
-I am a passionate **Frontend Developer** with a knack for creating seamless user experiences. My primary focus is on building responsive and interactive web applications using modern technologies.
+I am a passionate **Developer** with experience in Frontend, Backend & Fullstack and someone with a knack for creating seamless user experiences. My primary focus is on building responsive and interactive web applications using modern technologies.
 
 ## 🚀 About Me
-- 🌱 I’m currently learning **React** and **Three Js**.
-- 💼 I have experience in building projects with **HTML**, **CSS**, and **JavaScript**.
-- 🎨 I love working on design and UI/UX to enhance user engagement.
+- 🌱 I’m currently learning **React-Native** and **.NET Core**.
+- 💼 I have experience in building projects with **Next.Js** & **TypeScript** OR Using MERN Stack.
+- 🎨 I love working on the Backend part of an application to ensure proper **Security** & **Business Logic**.
 
 ## 🛠️ Technologies & Tools
 Here are some of the technologies I work with:
