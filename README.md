@@ -26,11 +26,6 @@ Here are some of the technologies I work with:
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=VivekDahiya06&show_icons=true&theme=radical)
 
-## 🌟 Projects
-Here are a few projects I’ve worked on:
-
-1. **Yuniq eCommerce** - Yuniq eCommerce is a dynamic and user-friendly online shopping platform designed to provide a seamless shopping experience. Built using modern web technologies, the platform offers a comprehensive range of features, including a responsive design, Shopping cart, and an intuitive product catalog..
-
 ## 📫 Let's Connect
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-dahiya-176ba6226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your.email@example.com)](mailto:vivekdahiya312@gmail.com)
