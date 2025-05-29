@@ -33,7 +33,7 @@ Here are some of the technologies I work with:
 
 ---
 <div width="100%" padding="100px 0px" align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=chartreuse-dark"  />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark"  />
 </div>
 
 
