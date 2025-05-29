@@ -22,9 +22,20 @@ Here are some of the technologies I work with:
 | ⭐ **Three.js** ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white) |                                                          |                           |                                  |
 | ⭐ **GSAP** ![GSAP](https://img.shields.io/badge/GSAP-88CC00?style=flat-square&logo=greensock&logoColor=white) |                                                          |                           |                                  |
 
+## 🧑‍💻 My GitHub Stats
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=VivekDahiya06&show_icons=true&theme=radical)
+![Streak](https://streak-stats.demolab.com?user=VivekDahiya06&theme=chartreuse-dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VivekDahiya06&layout=compact&theme=chartreuse-dark)
+
+## 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VivekDahiya06&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 🧠 Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=chartreuse-dark)
+
+
 
 ## 📫 Let's Connect
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-dahiya-176ba6226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
