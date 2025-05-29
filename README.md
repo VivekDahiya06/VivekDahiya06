@@ -31,17 +31,9 @@ Here are some of the technologies I work with:
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VivekDahiya06&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 🧠 Dev Quote
+---
+<div width="100%" padding="100px 0px" align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=chartreuse-dark"  />
+</div>
 
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=chartreuse-dark)
-
-
-
-## 📫 Let's Connect
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-dahiya-176ba6226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your.email@example.com)](mailto:vivekdahiya312@gmail.com)
-- [![Discord Badge](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/yourinvitelink)](https://discord.gg/yourinvitelink)
-
-
-Feel free to reach out if you'd like to discuss projects, collaboration, or just to connect!
 
