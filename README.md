@@ -24,7 +24,7 @@ Here are some of the technologies I work with:
 
 ## 🧑‍💻 My GitHub Stats
 
-![Streak](https://streak-stats.demolab.com?user=VivekDahiya06&theme=chartreuse-dark&border=7FFF00)
+![Streak](https://streak-stats.demolab.com/?user=VivekDahiya06&theme=chartreuse-dark&border=7FFF00)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VivekDahiya06&layout=compact&theme=chartreuse-dark&border_color=7FFF00)
 
 ## 📈 Contribution Graph
